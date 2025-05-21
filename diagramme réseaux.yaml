@@ -1,0 +1,17 @@
+panels:
+  - type: text
+    title: "Topologie Réseau Netcom"
+    gridPos:
+      h: 10
+      w: 24
+      x: 0
+      y: 0
+    options:
+      content: |
+        ### 🖥️ Topologie Réseau Netcom
+
+        <img src="https://raw.githubusercontent.com/dawwwla/network-diagrams/main/Switching2_Netcom.drawio.svg" alt="Switching2 Netcom" style="max-width: 100%; height: auto;" />
+      mode: markdown
+    fieldConfig:
+      defaults: {}
+      overrides: []
